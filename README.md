@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech CSE (Data Science) — Lovely Professional University, 2026  <br>📍 Nagpur, Maharashtra | Open to Mumbai, Pune, Hyderabad, Nagpur, Chandigarh & Remote  <br>🔍 Actively seeking Data Analyst / Data Engineer roles<br><br>- Built a PySpark ML pipeline on 103K+ airline records (RMSE: 17.63 min)<br>- Analyzed 50K+ telecom records for state-wise penetration trends<br>- Developed ETL pipelines with Informatica PowerCenter, cutting data inconsistencies by 30%<br>- Built an interactive Spotify analytics dashboard in Tableau
+🎓 B.Tech CSE (Data Science) — Lovely Professional University, 2026  <br>📍 Nagpur, Maharashtra | Open to Mumbai, Pune, Hyderabad, Nagpur, Chandigarh & Remote  <br>🔍 Actively seeking Data Analyst / Data Engineer roles<br><br>- Built a PySpark ML pipeline on 103K+ airline records (RMSE: 17.63 min)<br>- Analyzed 50K+ telecom records for state-wise penetration trends<br>- Developed ETL pipelines with Informatica PowerCenter, cutting data inconsistencies by 30%<br>- Built an interactive Spotify analytics dashboard in Tableau<br>- Built the Excel Dashboards for Apollo Hospitals to help make Business/Management Decisions.
 
 
 ## 🌐 Socials:
